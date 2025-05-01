@@ -12,6 +12,7 @@ add address=54.230.200.0/21 list=CloudFrontips
 add address=120.253.240.192/26 list=CloudFrontips
 add address=116.129.226.128/26 list=CloudFrontips
 add address=130.176.0.0/17 list=CloudFrontips
+add address=3.173.192.0/18 list=CloudFrontips
 add address=108.156.0.0/14 list=CloudFrontips
 add address=99.86.0.0/16 list=CloudFrontips
 add address=13.32.0.0/15 list=CloudFrontips
@@ -29,7 +30,6 @@ add address=3.168.0.0/14 list=CloudFrontips
 add address=65.9.128.0/18 list=CloudFrontips
 add address=130.176.128.0/18 list=CloudFrontips
 add address=58.254.138.0/25 list=CloudFrontips
-add address=205.251.201.0/24 list=CloudFrontips
 add address=205.251.206.0/23 list=CloudFrontips
 add address=54.230.208.0/20 list=CloudFrontips
 add address=3.160.0.0/14 list=CloudFrontips
@@ -82,7 +82,6 @@ add address=99.84.0.0/16 list=CloudFrontips
 add address=205.251.204.0/23 list=CloudFrontips
 add address=130.176.192.0/19 list=CloudFrontips
 add address=52.124.128.0/17 list=CloudFrontips
-add address=205.251.200.0/24 list=CloudFrontips
 add address=204.246.164.0/22 list=CloudFrontips
 add address=13.35.0.0/16 list=CloudFrontips
 add address=204.246.174.0/23 list=CloudFrontips
@@ -100,4 +99,4 @@ add address=120.253.241.160/27 list=CloudFrontips
 add address=3.173.128.0/18 list=CloudFrontips
 add address=64.252.64.0/18 list=CloudFrontips
  
-## Updated Tue Apr  1 01:56:30 UTC 2025 - LAYERWEB.COM.TR Project
+## Updated Thu May  1 01:58:33 UTC 2025 - LAYERWEB.COM.TR Project
