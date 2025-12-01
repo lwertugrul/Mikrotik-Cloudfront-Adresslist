@@ -1,7 +1,9 @@
 /ip firewall address-list
 add address=120.52.22.96/27 list=CloudFrontips
+add address=23.228.222.0/24 list=CloudFrontips
 add address=205.251.249.0/24 list=CloudFrontips
 add address=180.163.57.128/26 list=CloudFrontips
+add address=23.228.220.0/24 list=CloudFrontips
 add address=204.246.168.0/22 list=CloudFrontips
 add address=111.13.171.128/26 list=CloudFrontips
 add address=18.160.0.0/15 list=CloudFrontips
@@ -29,6 +31,7 @@ add address=3.165.0.0/16 list=CloudFrontips
 add address=3.168.0.0/14 list=CloudFrontips
 add address=65.9.128.0/18 list=CloudFrontips
 add address=130.176.128.0/18 list=CloudFrontips
+add address=23.228.221.0/24 list=CloudFrontips
 add address=58.254.138.0/25 list=CloudFrontips
 add address=205.251.206.0/23 list=CloudFrontips
 add address=54.230.208.0/20 list=CloudFrontips
@@ -83,6 +86,7 @@ add address=24.110.32.0/19 list=CloudFrontips
 add address=99.84.0.0/16 list=CloudFrontips
 add address=205.251.204.0/23 list=CloudFrontips
 add address=130.176.192.0/19 list=CloudFrontips
+add address=23.228.223.0/24 list=CloudFrontips
 add address=52.124.128.0/17 list=CloudFrontips
 add address=204.246.164.0/22 list=CloudFrontips
 add address=13.35.0.0/16 list=CloudFrontips
@@ -101,4 +105,4 @@ add address=120.253.241.160/27 list=CloudFrontips
 add address=3.173.128.0/18 list=CloudFrontips
 add address=64.252.64.0/18 list=CloudFrontips
  
-## Updated Sat Nov  1 01:54:01 UTC 2025 - LAYERWEB.COM.TR Project
+## Updated Mon Dec  1 02:12:08 UTC 2025 - LAYERWEB.COM.TR Project
