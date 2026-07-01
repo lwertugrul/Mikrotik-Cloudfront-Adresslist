@@ -1,4 +1,5 @@
 /ip firewall address-list
+add address=23.228.249.0/24 list=CloudFrontips
 add address=120.52.22.96/27 list=CloudFrontips
 add address=23.228.222.0/24 list=CloudFrontips
 add address=205.251.249.0/24 list=CloudFrontips
@@ -33,9 +34,11 @@ add address=18.244.0.0/15 list=CloudFrontips
 add address=205.251.208.0/20 list=CloudFrontips
 add address=3.165.0.0/16 list=CloudFrontips
 add address=3.168.0.0/14 list=CloudFrontips
+add address=23.228.251.0/24 list=CloudFrontips
 add address=65.9.128.0/18 list=CloudFrontips
 add address=130.176.128.0/18 list=CloudFrontips
 add address=23.228.221.0/24 list=CloudFrontips
+add address=23.228.248.0/24 list=CloudFrontips
 add address=58.254.138.0/25 list=CloudFrontips
 add address=205.251.206.0/23 list=CloudFrontips
 add address=54.230.208.0/20 list=CloudFrontips
@@ -74,6 +77,7 @@ add address=52.84.0.0/15 list=CloudFrontips
 add address=143.204.0.0/16 list=CloudFrontips
 add address=144.220.0.0/16 list=CloudFrontips
 add address=120.52.153.192/26 list=CloudFrontips
+add address=23.228.250.0/24 list=CloudFrontips
 add address=119.147.182.0/25 list=CloudFrontips
 add address=120.232.236.0/25 list=CloudFrontips
 add address=111.13.185.64/27 list=CloudFrontips
@@ -97,6 +101,7 @@ add address=204.246.164.0/22 list=CloudFrontips
 add address=13.35.0.0/16 list=CloudFrontips
 add address=204.246.174.0/23 list=CloudFrontips
 add address=3.164.128.0/17 list=CloudFrontips
+add address=24.110.128.0/17 list=CloudFrontips
 add address=3.172.0.0/18 list=CloudFrontips
 add address=36.103.232.0/25 list=CloudFrontips
 add address=119.147.182.128/26 list=CloudFrontips
@@ -111,4 +116,4 @@ add address=3.173.128.0/18 list=CloudFrontips
 add address=51.74.192.0/18 list=CloudFrontips
 add address=64.252.64.0/18 list=CloudFrontips
  
-## Updated Mon Jun  1 04:43:43 UTC 2026 - LAYERWEB.COM.TR Project
+## Updated Wed Jul  1 04:17:01 UTC 2026 - LAYERWEB.COM.TR Project
